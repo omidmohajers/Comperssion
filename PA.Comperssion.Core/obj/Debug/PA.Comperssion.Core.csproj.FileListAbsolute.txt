@@ -5,3 +5,8 @@ D:\Works\WPFs\Video Conference\Build\Debug\PA.Comperssion.Core.pdb
 D:\Works\WPFs\Video Conference\Comperssion\PA.Comperssion.Core\obj\Debug\PA.Comperssion.Core.csproj.CoreCompileInputs.cache
 D:\Works\WPFs\Video Conference\Comperssion\PA.Comperssion.Core\obj\Debug\PA.Comperssion.Core.dll
 D:\Works\WPFs\Video Conference\Comperssion\PA.Comperssion.Core\obj\Debug\PA.Comperssion.Core.pdb
+D:\Works\Git\Market Asistant\Build\Debug\PA.Comperssion.Core.dll
+D:\Works\Git\Market Asistant\Build\Debug\PA.Comperssion.Core.pdb
+D:\Works\Git\Market Asistant\Comperssion\PA.Comperssion.Core\obj\Debug\PA.Comperssion.Core.csproj.CoreCompileInputs.cache
+D:\Works\Git\Market Asistant\Comperssion\PA.Comperssion.Core\obj\Debug\PA.Comperssion.Core.dll
+D:\Works\Git\Market Asistant\Comperssion\PA.Comperssion.Core\obj\Debug\PA.Comperssion.Core.pdb

@@ -6,5 +6,6 @@
         Ogg = 1,
         AAc = 2,
         Ac3 = 3,
+        Other = 4,
     }
 }
