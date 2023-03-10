@@ -10,3 +10,4 @@ D:\Works\Git\Market Asistant\Build\Debug\PA.Comperssion.Core.pdb
 D:\Works\Git\Market Asistant\Comperssion\PA.Comperssion.Core\obj\Debug\PA.Comperssion.Core.csproj.CoreCompileInputs.cache
 D:\Works\Git\Market Asistant\Comperssion\PA.Comperssion.Core\obj\Debug\PA.Comperssion.Core.dll
 D:\Works\Git\Market Asistant\Comperssion\PA.Comperssion.Core\obj\Debug\PA.Comperssion.Core.pdb
+D:\Works\Git\Market Asistant\Comperssion\PA.Comperssion.Core\obj\Debug\PA.Comperssion.Core.csproj.AssemblyReference.cache
